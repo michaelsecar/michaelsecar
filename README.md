@@ -1,16 +1,15 @@
-## Hi there 👋
+## <Hello world=\"👋"\/> 
 
-<!--
-**michaelsecar/michaelsecar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am `michaelsecar` and this is my repository.
+Be free to search and look for something that you will never find .
+
+Looking for a cat?
+![alt text](https://cataas.com/cat)
+_Random cat by: `Cattas.com`_
 
 Here are some ideas to get you started:
+To the point, I'm software developer: Java, React, Node, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux enjoyer 🐧...🐧🐧🐧🐧.
+
+_Check [my website 💻](michaelsecar.com)_ 
