@@ -1,9 +1,7 @@
 ## <Hello world=\"👋"\/> 
 
 I am `michaelsecar` and this is my repository.
-Be free to search and look for something that you will never find .
 
-Looking for a cat?
 ![alt text](https://cataas.com/cat)
 _Random cat by: `Cattas.com`_
 
