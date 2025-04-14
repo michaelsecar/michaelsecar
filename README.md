@@ -10,4 +10,3 @@ To the point, I'm software developer: Java, React, Node, and Python.
 
 Linux enjoyer 🐧...🐧🐧🐧🐧.
 
-_Check [my website 💻](https://michaelsecar.com)_ 
