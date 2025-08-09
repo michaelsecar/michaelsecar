@@ -1,4 +1,4 @@
-<a href="https://portfolio-xi-khaki-51.vercel.app/" align="center" style="font-family: monospace; font-size: 1.5em;">👨‍💻 Michael Secarlos AC 🐧️</a>
+<a href="https://portfolio-xi-khaki-51.vercel.app/" align="center" style="font-family: monospace; font-size: 1.5em; color:white; font-size:32;">👨‍💻 Michael Secarlos AC 🐧️</a>
 
 <!-- Sección de contribuciones con heatmap -->
 <p align="center">
